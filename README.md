@@ -1,2 +1,2 @@
-# swiftenv
-Make environment variable great again. 
+# SwiftEnv
+Now a swifty way to handle environment variable in Swift.
